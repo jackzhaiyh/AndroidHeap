@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidHeap</string>
+    <string name="title_activity_app_start">StartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hp_name_tab0">Tab1</string>
+    <string name="hp_name_tab1">Tab2</string>
+    <string name="hp_name_tab2">Tab3</string>
 </resources>
